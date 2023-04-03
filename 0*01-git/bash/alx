@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "alx"
+Ã^C
+root@3687545588cfa:/alx-pre_course/0*01-git/bash# git add .
